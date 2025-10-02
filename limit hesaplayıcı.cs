@@ -419,7 +419,7 @@ namespace Kuika.ThirdPartyApisCollection
                 {
                     
                     double a=Convert.ToDouble(Limit(((Tuple<string, object, object>)expr).Item2,xValue).Replace("x",xValue.ToString()));
-                    double b=Convert.ToDouble(Limit(((Tuple<string, object, object>)expr).Item2,xValue).Replace("x",xValue.ToString()));
+                    double b=Convert.ToDouble(Limit(((Tuple<string, object, object>)expr).Item3,xValue).Replace("x",xValue.ToString()));
                     if (Double.IsNaN(a/b))
                     {
                         xValue=xValue+0.0001;
