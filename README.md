@@ -1,7 +1,7 @@
 
 # Kuika-ile-Kalkulus-Hesap-Makinesi
 # 📘 Kalkülüs Hesap Makinesi
-#Bu proje aslında Python ile yazılmış olup Kuika Low-Code Platformuna entegre edilmesi için C# diline dönüşüm yapılıp tekrar yazılmıştır.
+**Bu proje aslında Python ile yazılmış olup Kuika Low-Code Platformuna entegre edilmesi için C# diline dönüşüm yapılıp tekrar yazılmıştır.**
 Bu proje, kullanıcıların **kalkülüs** ve **matris işlemlerini** kolayca yapabilmesi için tasarlanmış bir **web ve mobil uygulama geliştirme projesidir**.  
 Proje, öğrenciler ve profesyoneller için **türev, integral, limit** hesaplamaları ile **matris işlemlerini** hızlı ve doğru şekilde gerçekleştirmeyi hedefler.  
 
