@@ -5,8 +5,9 @@
 Bu proje, kullanıcıların **kalkülüs** ve **matris işlemlerini** kolayca yapabilmesi için tasarlanmış bir **web ve mobil uygulama geliştirme projesidir**.  
 Proje, öğrenciler ve profesyoneller için **türev, integral, limit** hesaplamaları ile **matris işlemlerini** hızlı ve doğru şekilde gerçekleştirmeyi hedefler.  
 
-**trigonometrik ifadeler radyan cinsinden hesaplanır.
+
 ---
+trigonometrik ifadeler radyan cinsinden hesaplanır.
 
 ## 🎯 Amaç
 - Kullanıcıların matematiksel hesaplamalarına yardımcı olacak bir **kalkülüs ve matris hesap makinesi** geliştirmek.  
