@@ -106,3 +106,9 @@ Bu proje, daha geniş bir **eğitim platformunun parçası** olarak öğrenciler
 Uzun vadede geliştirilerek, daha büyük **matematiksel ve mühendislik projeleri için temel bir araç** olabilir.  
 
 ---
+## 📌 Proje Hakkında
+
+Bu proje, galaksi120 hesabı tarafından geliştirilmiş ve ilk olarak **2 Ekim 2025** tarihinde GitHub üzerinde paylaşılmıştır.
+
+Projede yer alan kodlar ve içerikler, yazılım becerilerimi göstermek amacıyla paylaşılmıştır.  
+İnceleme ve değerlendirme amaçlı kullanılabilir, ancak içeriklerin izinsiz şekilde çoğaltılması, ödev olarak sunulması veya ticari kullanımı uygun değildir.
